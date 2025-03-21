@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Getting Started with Vue 3",
+		"category": "Technology",
+		"content": "Vue 3 introduces exciting new features like Composition API, Teleport, and Fragment support. Here's how to get started with this powerful framework.",
+		"author": "Jane Doe",
+		"date": "2023-04-15"
+	},
+	{
+		"id": 2,
+		"title": "The Art of Frontend Design",
+		"category": "Design",
+		"content": "Modern frontend design combines aesthetics with functionality. Learn how to create beautiful user interfaces that provide excellent user experiences.",
+		"author": "John Smith",
+		"date": "2023-04-20"
+	},
+	{
+		"id": 3,
+		"title": "JavaScript Tips and Tricks",
+		"category": "Programming",
+		"content": "Discover lesser-known JavaScript features that can make your code more efficient, readable, and maintainable. Includes practical examples.",
+		"author": "Alex Johnson",
+		"date": "2023-04-25"
+	},
+	{
+		"id": 4,
+		"title": "Building Responsive Layouts",
+		"category": "Design",
+		"content": "Learn techniques for creating layouts that work perfectly across all device sizes. From mobile-first approaches to CSS Grid and Flexbox.",
+		"author": "Sarah Williams",
+		"date": "2023-04-30"
+	}
+]
