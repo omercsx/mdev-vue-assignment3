@@ -32,18 +32,18 @@ onBeforeUnmount(() => {
 				<h2>Our Team</h2>
 				<div class="team-members">
 					<div class="team-member">
-						<div class="avatar">JD</div>
-						<h3>Jane Doe</h3>
+						<div class="avatar">OS</div>
+						<h3>Omer Cagri Sayir</h3>
 						<p class="role">Founder & Lead Developer</p>
 						<p class="bio">
-							Jane is a full-stack developer with over 10 years of experience in
+							Omer is a full-stack developer with over 10 years of experience in
 							web development. She specializes in Vue.js and modern JavaScript
 							frameworks.
 						</p>
 					</div>
 					<div class="team-member">
-						<div class="avatar">JS</div>
-						<h3>John Smith</h3>
+						<div class="avatar">CS</div>
+						<h3>Cagri Sayir</h3>
 						<p class="role">UX Designer</p>
 						<p class="bio">
 							John brings years of design experience to the team, ensuring that
@@ -52,11 +52,11 @@ onBeforeUnmount(() => {
 						</p>
 					</div>
 					<div class="team-member">
-						<div class="avatar">AJ</div>
-						<h3>Alex Johnson</h3>
+						<div class="avatar">OS</div>
+						<h3>Omer Cagri Sayir</h3>
 						<p class="role">Content Manager</p>
 						<p class="bio">
-							Alex curates content for Vue Blog, ensuring that our articles are
+							Omer curates content for Vue Blog, ensuring that our articles are
 							informative, relevant, and accessible to developers at all skill
 							levels.
 						</p>
